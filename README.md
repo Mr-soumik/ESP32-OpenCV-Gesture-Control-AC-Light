@@ -7,7 +7,8 @@ A professional DIY IoT and Computer Vision project that allows you to control a 
 ## YouTube shorts👉
 ## Facebook👉 
 ## Instagram👉
-![Uploading image.png…]()
+<img width="4096" height="1840" alt="IMG_20261027_124338 jpg" src="https://github.com/user-attachments/assets/882b0867-4127-4ec8-b7f8-9a5e370a4bb5" />
+
 
 
 # Connect with TechTadka360💝👇
