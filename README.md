@@ -2,6 +2,19 @@
 
 A professional DIY IoT and Computer Vision project that allows you to control a high-voltage 220V AC appliance (like a light bulb or fan) using simple hand gestures captured by your laptop's webcam. This system runs completely **offline**, leveraging USB Serial communication between Python (OpenCV + MediaPipe) and an ESP32 microcontroller.
 
+# Demo Video Link👇
+## YouTube Tutorial👉 
+## YouTube shorts👉
+## Facebook👉 
+## Instagram👉
+![Uploading image.png…]()
+
+
+# Connect with TechTadka360💝👇
+
+- YouTube: [@techtadka360official](https://youtube.com/@techtadka360official?si=GdlIntZKv30kPgBk)
+- Instagram: [@techtadka360official](https://www.instagram.com/techtadka360official?igsh=cWR4bnhjdWw1MHdh)
+- Facebook: [TechTadka360](https://www.facebook.com/share/1EkKAJNLdB/)
 ---
 
 ## 🚀 Features
